@@ -1,0 +1,70 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    margin: 0px 550px 0px 550px;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px 550px 0px 550px;
+}
+
+header {
+    background-color: hsla(360, 100%, 100%, 0.69);
+    height: 300px;
+    border: 5px;
+    border: thick;
+    border-color: black;
+    text-align: center;
+}
+
+#logo {
+    height: 50%70;
+    display: block;
+    margin: 0px auto;
+}
+
+article {
+    display: block;
+    float: left;
+    width: 49%;
+}
+
+#emporium {
+    height: 60px;
+    margin-top: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kenworth {
+    height: 150px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    height: 200px;
+}
+
+.logo {
+    height: 50px;
+}
+
+#copyright {
+   text-align: center;
+}
