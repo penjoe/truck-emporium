@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    margin: 0px 550px 0px 550px;
+
 }
 
 li {
@@ -39,7 +39,7 @@ header {
 article {
     display: block;
     float: left;
-    width: 49%;
+    width: 50%;
 }
 
 #emporium {
